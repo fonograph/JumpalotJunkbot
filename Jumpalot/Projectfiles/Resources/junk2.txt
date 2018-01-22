@@ -1,0 +1,119 @@
+Newspaper A
+newspaper1.png
+"World cheers as Solution promises to solve everything. Waste skyrockets as ByoLogyc's stocks soar."
+
+Newspaper B
+newspaper2.png
+"Scientists concerned about growing threat from radiation. Is going into space the answer?"
+
+Newspaper C
+newspaper3.png
+"Standoff between nations 'cannot last forever', says official. 'The threat of mass destruction is too great.'"
+
+Battery
+battery.png
+The dangerous chemicals within have long since leaked out and poisoned a really cute bunny.
+
+Brownie
+brownie.png
+Are those marshmallows on top? Who puts marshmallows on top of a brownie? Get this filth away from me.
+
+Cupcake
+cupcake.png
+Baked by Mrs Matheson, to apologize for that thing that happened with the Palmerston boy's puppy.
+
+Muffin
+muffin.png
+Don't eat it! This thing is positively brimming with toxic radiation. Plus, it's like a thousand years old.
+
+Creme Brulee
+cremebrule.png
+It was actually just a normal pudding, but passed dangerously close to the sun.
+
+Gross Food
+rottenfooda.png
+Flash-frozen in time at the moment of the incident. Whoever was about to eat it was probably thankful.
+
+Rotten Food
+rottenfoodb.png
+Spent half a year inside a fridge, and half a century orbiting Jupiter.
+
+Crumpled Map
+crumpledmap.png
+You don't really need to know where you're going, because it's no longer there.
+
+Photograph
+photograph.png
+A memory no longer remembered by anyone.
+
+Small Jewel
+smalljewel.png
+The miner who dug this up went on to own a really sweet preowned Hyundai Impala, but died in a car accident.
+
+Dead Bug A
+deadbuga.png
+Capable of surviving toxic bug spray, nuclear attacks, and ice ages; not capable of surviving a black hole.
+
+Dead Bug B
+deadbugb.png
+Worked on his PhD for ten years. Died 2 months away from completion. Wouldn't have changed a thing.
+
+Jar of Tears
+jaroftears.png
+Can be dried and refined to produce the most delicious salt you'll ever taste.
+
+Jar of Toenails
+jaroftoenails.png
+Look how big some of these are. Why would anyone wait so long between trimming their toenails?
+
+Jar of Urine
+jarofurine.png
+Totally sterile, but drinking this is frowned upon by most.
+
+Jar of Brain
+jarofbrain.png
+Still believes it is a professor of English at a small midwestern university.
+
+Lunchbox
+lunchbox.png
+He took this to school everyday, where he dreamed of changing the world, and stumbled across his own ambition.
+
+Stained Pillow
+stainedpillow.png
+Laboratory scientists have confirmed that there are 3 unique kinds of stains from 3 unique kinds of fluid.
+
+Small Engine
+smallbrokenengine.png
+The warships sent by the Eurasian Alliance were the weakest of the bunch, with teensy little fusion cores.
+
+Rubber Ducky
+ducky.png
+The duck has seen a lot. Be careful about stirring up painful memories.
+
+Bowler Hat
+bowler.png
+These were coming back into fashion at the time, and he wore it to his first day on the job at ByoLogyc.
+
+Dead Goldfish
+fishbowl.png
+She watched the news; she read the paper; she saw what was coming; and she chose to end things on her own terms.
+
+Magazine A
+magazine1.png
+"Inside the New Trash Economy: How the Solution has made reckless waste into the key for prosperity."
+
+Magazine B
+magazine2.png
+"The Hunk Behind the Junk: An exclusive interview with ByoLogyc's visionary CEO."
+
+Magazine C
+magazine3.png
+"Star Wars: Multinational forces feud over who has claim to mankind's greatest invention, now that it's in space."
+
+Love Letter
+loveletter.png
+"It hurts to leave, but I have to go where the machine goes. If you get lonely, just look up. I won't be far. -M"
+
+Moldy Teddy Bear
+moldyteddy.png
+Those beady little eyes stare deep into your soul. They know. They judge. They condemn.

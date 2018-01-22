@@ -1,0 +1,3486 @@
+{
+    "assets": [
+        {
+            "asset": "Projectfiles/Resources/images/help/help3.png", 
+            "target": "help3.png"
+        }, 
+        {
+            "asset": "Projectfiles-iOS/Resources/fps_images.png", 
+            "target": "fps_images.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/props/paneltex-hd.pvr", 
+            "target": "paneltex-hd.pvr"
+        }, 
+        {
+            "asset": "Projectfiles-iOS/Resources/Icon-Small.png", 
+            "target": "Icon-Small.png"
+        }, 
+        {
+            "asset": "Projectfiles-iOS/Resources/Icon-Small@2x.png", 
+            "target": "Icon-Small@2x.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/bg/bg7.pvr", 
+            "target": "bg7.pvr"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/bg/bg1.pvr", 
+            "target": "bg1.pvr"
+        }, 
+        {
+            "asset": "Projectfiles-iOS/Resources/Icon.png", 
+            "target": "Icon.png"
+        }, 
+        {
+            "asset": "Projectfiles-iOS/Resources/Icon@2x.png", 
+            "target": "Icon@2x.png"
+        }, 
+        {
+            "asset": "Projectfiles-iOS/Resources/iTunesArtwork", 
+            "target": "iTunesArtwork"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/config.lua", 
+            "target": "config.lua"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/junkSprites.pvr.ccz", 
+            "target": "junkSprites.pvr.ccz"
+        }, 
+        {
+            "asset": "Projectfiles-iOS/ubuntu-font-family-0.80/Ubuntu-B.ttf", 
+            "target": "Ubuntu-B.ttf"
+        }, 
+        {
+            "asset": "Projectfiles-iOS/ubuntu-font-family-0.80/Ubuntu-BI.ttf", 
+            "target": "Ubuntu-BI.ttf"
+        }, 
+        {
+            "asset": "Projectfiles-iOS/ubuntu-font-family-0.80/Ubuntu-C.ttf", 
+            "target": "Ubuntu-C.ttf"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/particles/introParticles.plist", 
+            "target": "introParticles.plist"
+        }, 
+        {
+            "asset": "Projectfiles-iOS/ubuntu-font-family-0.80/Ubuntu-L.ttf", 
+            "target": "Ubuntu-L.ttf"
+        }, 
+        {
+            "asset": "Projectfiles-iOS/ubuntu-font-family-0.80/Ubuntu-LI.ttf", 
+            "target": "Ubuntu-LI.ttf"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/audio/music/music5.caf", 
+            "target": "music5.caf"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/audio/sfx/menuWhoosh.caf", 
+            "target": "menuWhoosh.caf"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/mainmenu/settings_clear-hd.png", 
+            "target": "settings_clear-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles-iOS/ubuntu-font-family-0.80/Ubuntu-M.ttf", 
+            "target": "Ubuntu-M.ttf"
+        }, 
+        {
+            "asset": "Projectfiles-iOS/ubuntu-font-family-0.80/Ubuntu-MI.ttf", 
+            "target": "Ubuntu-MI.ttf"
+        }, 
+        {
+            "asset": "Projectfiles-iOS/ubuntu-font-family-0.80/Ubuntu-R.ttf", 
+            "target": "Ubuntu-R.ttf"
+        }, 
+        {
+            "asset": "Projectfiles-iOS/ubuntu-font-family-0.80/Ubuntu-RI.ttf", 
+            "target": "Ubuntu-RI.ttf"
+        }, 
+        {
+            "asset": "Projectfiles-iOS/ubuntu-font-family-0.80/UbuntuMono-B.ttf", 
+            "target": "UbuntuMono-B.ttf"
+        }, 
+        {
+            "asset": "Projectfiles-iOS/ubuntu-font-family-0.80/UbuntuMono-BI.ttf", 
+            "target": "UbuntuMono-BI.ttf"
+        }, 
+        {
+            "asset": "Projectfiles-iOS/ubuntu-font-family-0.80/UbuntuMono-R.ttf", 
+            "target": "UbuntuMono-R.ttf"
+        }, 
+        {
+            "asset": "Projectfiles-iOS/ubuntu-font-family-0.80/UbuntuMono-RI.ttf", 
+            "target": "UbuntuMono-RI.ttf"
+        }, 
+        {
+            "asset": "Projectfiles-iOS/Resources/fps_images-hd.png", 
+            "target": "fps_images-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles-iOS/Resources/fps_images-ipadhd.png", 
+            "target": "fps_images-ipadhd.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/launch/launchShadow.png", 
+            "target": "launchShadow.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/block-hd.png", 
+            "target": "block-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/block.png", 
+            "target": "block.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/junkbot-hd.plist", 
+            "target": "junkbot-hd.plist"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/bg/bg7-hd.pvr", 
+            "target": "bg7-hd.pvr"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/junkbot-hd.png", 
+            "target": "junkbot-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles-iOS/Resources/Default.png", 
+            "target": "Default.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/junkbot.plist", 
+            "target": "junkbot.plist"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/junkbot.png", 
+            "target": "junkbot.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/bg/bgmid5-hd.pvr", 
+            "target": "bgmid5-hd.pvr"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/junk-hd.png", 
+            "target": "junk-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/junk.png", 
+            "target": "junk.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/MainMenu.ccbi", 
+            "target": "MainMenu.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/junkSprites-hd.plist", 
+            "target": "junkSprites-hd.plist"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/mainmenu/mainmenu_circle-hd.png", 
+            "target": "mainmenu_circle-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/mainmenu/mainmenu_circle.png", 
+            "target": "mainmenu_circle.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/audio/sfx/gameover.caf", 
+            "target": "gameover.caf"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/help/help1.png", 
+            "target": "help1.png"
+        }, 
+        {
+            "asset": "Projectfiles-iOS/Resources/Default-568h@2x.png", 
+            "target": "Default-568h@2x.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/mainmenu/mainmenu_drag-hd.png", 
+            "target": "mainmenu_drag-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/audio/music/music2.caf", 
+            "target": "music2.caf"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/mainmenu/mainmenu_drag.png", 
+            "target": "mainmenu_drag.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/bg/bg1-hd.pvr", 
+            "target": "bg1-hd.pvr"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/bg/bgmid1-hd.pvr", 
+            "target": "bgmid1-hd.pvr"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/mainmenu/mainmenu_help-hd.png", 
+            "target": "mainmenu_help-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/mainmenu/mainmenu_help.png", 
+            "target": "mainmenu_help.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/mainmenu/mainmenu_junk-hd.png", 
+            "target": "mainmenu_junk-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/audio/sfx/alarm.caf", 
+            "target": "alarm.caf"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/mainmenu/mainmenu_junk.png", 
+            "target": "mainmenu_junk.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/mainmenu/mainmenu_play-hd.png", 
+            "target": "mainmenu_play-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/mainmenu/mainmenu_play.png", 
+            "target": "mainmenu_play.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/mainmenu/mainmenu_tap-hd.png", 
+            "target": "mainmenu_tap-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/mainmenu/mainmenu_tap.png", 
+            "target": "mainmenu_tap.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/mainmenu/mainmenu_title-hd.png", 
+            "target": "mainmenu_title-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/mainmenu/mainmenu_title.png", 
+            "target": "mainmenu_title.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/props/paneloutlinetex-hd.pvr", 
+            "target": "paneloutlinetex-hd.pvr"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/GameOver.ccbi", 
+            "target": "GameOver.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/fonts/D3 Mouldism Alphabet.ttf", 
+            "target": "D3 Mouldism Alphabet.ttf"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/junkSprites-hd.pvr.ccz", 
+            "target": "junkSprites-hd.pvr.ccz"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/fonts/D3 Mouldism Katakana.ttf", 
+            "target": "D3 Mouldism Katakana.ttf"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/fonts/D3 Mouldism Round Alphabet.ttf", 
+            "target": "D3 Mouldism Round Alphabet.ttf"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/MainSettings.ccbi", 
+            "target": "MainSettings.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/fonts/D3 Mouldism Round Italic.ttf", 
+            "target": "D3 Mouldism Round Italic.ttf"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/gameover/gameover_quit-hd.png", 
+            "target": "gameover_quit-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/gameover/gameover_quit.png", 
+            "target": "gameover_quit.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/gameover/gameover_retry-hd.png", 
+            "target": "gameover_retry-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/gameover/gameover_retry.png", 
+            "target": "gameover_retry.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaA1.ccbi", 
+            "target": "PropAreaA1.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaA2.ccbi", 
+            "target": "PropAreaA2.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaA3.ccbi", 
+            "target": "PropAreaA3.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/bg/bgmid6.pvr", 
+            "target": "bgmid6.pvr"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaA4.ccbi", 
+            "target": "PropAreaA4.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaA5.ccbi", 
+            "target": "PropAreaA5.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaB1.ccbi", 
+            "target": "PropAreaB1.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/bg/bg5-hd.pvr", 
+            "target": "bg5-hd.pvr"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaB2.ccbi", 
+            "target": "PropAreaB2.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaB3.ccbi", 
+            "target": "PropAreaB3.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/bg/bg5.pvr", 
+            "target": "bg5.pvr"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/mainmenu/collection_tweet.png", 
+            "target": "collection_tweet.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaB4.ccbi", 
+            "target": "PropAreaB4.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaB5.ccbi", 
+            "target": "PropAreaB5.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/hudSprites.pvr", 
+            "target": "hudSprites.pvr"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/props/bomb-hd.png", 
+            "target": "bomb-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/bg/bgmid6-hd.pvr", 
+            "target": "bgmid6-hd.pvr"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/props/bomb.png", 
+            "target": "bomb.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaA6.ccbi", 
+            "target": "PropAreaA6.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaB6.ccbi", 
+            "target": "PropAreaB6.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaC1.ccbi", 
+            "target": "PropAreaC1.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaC2.ccbi", 
+            "target": "PropAreaC2.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaC3.ccbi", 
+            "target": "PropAreaC3.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaC4.ccbi", 
+            "target": "PropAreaC4.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaC5.ccbi", 
+            "target": "PropAreaC5.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/particles/boostHalo.plist", 
+            "target": "boostHalo.plist"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/particles/particle.png", 
+            "target": "particle.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/particles/hyperTrail.plist", 
+            "target": "hyperTrail.plist"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/hudSprites-hd.pvr", 
+            "target": "hudSprites-hd.pvr"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/particles/zoomer.plist", 
+            "target": "zoomer.plist"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/particles/particleLarge.png", 
+            "target": "particleLarge.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/effects/playertrail.png", 
+            "target": "playertrail.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/particles/boostStart.plist", 
+            "target": "boostStart.plist"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/particles/zoomerStart.plist", 
+            "target": "zoomerStart.plist"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/particles/hyperStart.plist", 
+            "target": "hyperStart.plist"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/particles/bombExplode.plist", 
+            "target": "bombExplode.plist"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/audio/sfx/collect.caf", 
+            "target": "collect.caf"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/audio/sfx/bounce.caf", 
+            "target": "bounce.caf"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/mainmenu/mainmenu_arrowsmall-hd.png", 
+            "target": "mainmenu_arrowsmall-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/audio/sfx/chime.caf", 
+            "target": "chime.caf"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/audio/sfx/boost.caf", 
+            "target": "boost.caf"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/audio/sfx/zoom.caf", 
+            "target": "zoom.caf"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/audio/sfx/bomb.caf", 
+            "target": "bomb.caf"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/launch/launchDoorLeft.png", 
+            "target": "launchDoorLeft.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/audio/sfx/hyper.caf", 
+            "target": "hyper.caf"
+        }, 
+        {
+            "asset": "Projectfiles-iOS/Resources/Icon-80@2x.png", 
+            "target": "Icon-80@2x.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/particles/deathExplosion.plist", 
+            "target": "deathExplosion.plist"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/mainmenu/mainmenu_arrows-hd.png", 
+            "target": "mainmenu_arrows-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/mainmenu/mainmenu_arrows.png", 
+            "target": "mainmenu_arrows.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaA7.ccbi", 
+            "target": "PropAreaA7.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/props/zoomer-hd.png", 
+            "target": "zoomer-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/props/zoomer.png", 
+            "target": "zoomer.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/particles/bomb.plist", 
+            "target": "bomb.plist"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/particles/junkIdleNew.plist", 
+            "target": "junkIdleNew.plist"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/audio/sfx/beep2.caf", 
+            "target": "beep2.caf"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/props/panel-hd.png", 
+            "target": "panel-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/props/panel.png", 
+            "target": "panel.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/props/circle-hd.png", 
+            "target": "circle-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/bg/bgmid1.pvr", 
+            "target": "bgmid1.pvr"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/props/circle.png", 
+            "target": "circle.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/mainmenu/collection_tweet-hd.png", 
+            "target": "collection_tweet-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/objectSprites-hd.plist", 
+            "target": "objectSprites-hd.plist"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/audio/music/music1.caf", 
+            "target": "music1.caf"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/objectSprites-hd.pvr", 
+            "target": "objectSprites-hd.pvr"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/bg/bg3-hd.pvr", 
+            "target": "bg3-hd.pvr"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/launch/launchFloor.png", 
+            "target": "launchFloor.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/objectSprites.plist", 
+            "target": "objectSprites.plist"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/objectSprites.pvr", 
+            "target": "objectSprites.pvr"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/bg/bg6-hd.pvr", 
+            "target": "bg6-hd.pvr"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/audio/sfx/beep.caf", 
+            "target": "beep.caf"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/help/help1-hd.png", 
+            "target": "help1-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/help/help2-hd.png", 
+            "target": "help2-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/particles/junkCollect.plist", 
+            "target": "junkCollect.plist"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/help/help3-hd.png", 
+            "target": "help3-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/help/thumb-hd.png", 
+            "target": "thumb-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/audio/sfx/introsparkle.caf", 
+            "target": "introsparkle.caf"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/help/thumb.png", 
+            "target": "thumb.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/junkSprites.plist", 
+            "target": "junkSprites.plist"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaB7.ccbi", 
+            "target": "PropAreaB7.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/props/paneloutlinetex.pvr", 
+            "target": "paneloutlinetex.pvr"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaB8.ccbi", 
+            "target": "PropAreaB8.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaB9.ccbi", 
+            "target": "PropAreaB9.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaB10.ccbi", 
+            "target": "PropAreaB10.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/bg/bgmid3-hd.pvr", 
+            "target": "bgmid3-hd.pvr"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaA8.ccbi", 
+            "target": "PropAreaA8.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/pause/pause_quit-hd.png", 
+            "target": "pause_quit-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaA9.ccbi", 
+            "target": "PropAreaA9.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaA10.ccbi", 
+            "target": "PropAreaA10.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/audio/sfx/levelup.caf", 
+            "target": "levelup.caf"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/mainmenu/mainmenu_left-hd.png", 
+            "target": "mainmenu_left-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/launch/launchZ.png", 
+            "target": "launchZ.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/mainmenu/mainmenu_left.png", 
+            "target": "mainmenu_left.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/bg/bg2-hd.pvr", 
+            "target": "bg2-hd.pvr"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/Pause.ccbi", 
+            "target": "Pause.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/mainmenu/mainmenu_up-hd.png", 
+            "target": "mainmenu_up-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/mainmenu/mainmenu_up.png", 
+            "target": "mainmenu_up.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/mainmenu/mainmenu_settings-hd.png", 
+            "target": "mainmenu_settings-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/mainmenu/mainmenu_settings.png", 
+            "target": "mainmenu_settings.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/bg/bgmid2-hd.pvr", 
+            "target": "bgmid2-hd.pvr"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/playerSprites-hd.plist", 
+            "target": "playerSprites-hd.plist"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/playerSprites-hd.pvr", 
+            "target": "playerSprites-hd.pvr"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/playerSprites.plist", 
+            "target": "playerSprites.plist"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/playerSprites.pvr", 
+            "target": "playerSprites.pvr"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaC6.ccbi", 
+            "target": "PropAreaC6.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaC7.ccbi", 
+            "target": "PropAreaC7.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles-iOS/Resources/Icon-Small-50.png", 
+            "target": "Icon-Small-50.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/props/paneltex.pvr", 
+            "target": "paneltex.pvr"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaC8.ccbi", 
+            "target": "PropAreaC8.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaC9.ccbi", 
+            "target": "PropAreaC9.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/bg/bg4-hd.pvr", 
+            "target": "bg4-hd.pvr"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/bg/bgmid2.pvr", 
+            "target": "bgmid2.pvr"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaC10.ccbi", 
+            "target": "PropAreaC10.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaD1.ccbi", 
+            "target": "PropAreaD1.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles-iOS/Resources/Icon-120@2x.png", 
+            "target": "Icon-120@2x.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/bg/bgmid7-hd.pvr", 
+            "target": "bgmid7-hd.pvr"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaD2.ccbi", 
+            "target": "PropAreaD2.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/audio/sfx/levelupOut.caf", 
+            "target": "levelupOut.caf"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/bg/bg6.pvr", 
+            "target": "bg6.pvr"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaD3.ccbi", 
+            "target": "PropAreaD3.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaD4.ccbi", 
+            "target": "PropAreaD4.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaD5.ccbi", 
+            "target": "PropAreaD5.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaD6.ccbi", 
+            "target": "PropAreaD6.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaD7.ccbi", 
+            "target": "PropAreaD7.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaD10.ccbi", 
+            "target": "PropAreaD10.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/blockRepel.png", 
+            "target": "blockRepel.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/props/bombAttract.png", 
+            "target": "bombAttract.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/audio/music/musicMenu.caf", 
+            "target": "musicMenu.caf"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/blockRepel-hd.png", 
+            "target": "blockRepel-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/pause/pause_resume.png", 
+            "target": "pause_resume.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaD8.ccbi", 
+            "target": "PropAreaD8.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/launch/launchDoorRight.png", 
+            "target": "launchDoorRight.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/pause/pause_quit.png", 
+            "target": "pause_quit.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaD9.ccbi", 
+            "target": "PropAreaD9.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaE1.ccbi", 
+            "target": "PropAreaE1.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/bg/bg3.pvr", 
+            "target": "bg3.pvr"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaE2.ccbi", 
+            "target": "PropAreaE2.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaE3.ccbi", 
+            "target": "PropAreaE3.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaE4.ccbi", 
+            "target": "PropAreaE4.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaE5.ccbi", 
+            "target": "PropAreaE5.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaE6.ccbi", 
+            "target": "PropAreaE6.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaE7.ccbi", 
+            "target": "PropAreaE7.ccbi"
+        }, 
+        {
+            "asset": "../__Kobold2D__/Kobold2D-Libraries.xcodeproj", 
+            "target": "Kobold2D-Libraries.xcodeproj"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaE8.ccbi", 
+            "target": "PropAreaE8.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaE9.ccbi", 
+            "target": "PropAreaE9.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaE10.ccbi", 
+            "target": "PropAreaE10.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/bg/bgmid4-hd.pvr", 
+            "target": "bgmid4-hd.pvr"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/bg/bgmid7.pvr", 
+            "target": "bgmid7.pvr"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaF1.ccbi", 
+            "target": "PropAreaF1.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaF2.ccbi", 
+            "target": "PropAreaF2.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaF3.ccbi", 
+            "target": "PropAreaF3.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/mainmenu/mainmenu_arrowsmall.png", 
+            "target": "mainmenu_arrowsmall.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/audio/music/music4.caf", 
+            "target": "music4.caf"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaF4.ccbi", 
+            "target": "PropAreaF4.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaF5.ccbi", 
+            "target": "PropAreaF5.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaF6.ccbi", 
+            "target": "PropAreaF6.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaF7.ccbi", 
+            "target": "PropAreaF7.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaF8.ccbi", 
+            "target": "PropAreaF8.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaF9.ccbi", 
+            "target": "PropAreaF9.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaF10.ccbi", 
+            "target": "PropAreaF10.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/junk1.txt", 
+            "target": "junk1.txt"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/bg/bgmid3.pvr", 
+            "target": "bgmid3.pvr"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/junk2.txt", 
+            "target": "junk2.txt"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/junk3.txt", 
+            "target": "junk3.txt"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/junk4.txt", 
+            "target": "junk4.txt"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/help/help2.png", 
+            "target": "help2.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/launch/launchBack.png", 
+            "target": "launchBack.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropArea0.ccbi", 
+            "target": "PropArea0.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles-iOS/Resources/Default~iphone.png", 
+            "target": "Default~iphone.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/bg/bgmid4.pvr", 
+            "target": "bgmid4.pvr"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/particles/blockActivate.plist", 
+            "target": "blockActivate.plist"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/bg/bg2.pvr", 
+            "target": "bg2.pvr"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/launch/launchFrontTop.png", 
+            "target": "launchFrontTop.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaZ1.ccbi", 
+            "target": "PropAreaZ1.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaZ2.ccbi", 
+            "target": "PropAreaZ2.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/launch/launchZ-hd.png", 
+            "target": "launchZ-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles-iOS/Resources/Icon-72.png", 
+            "target": "Icon-72.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaZ3.ccbi", 
+            "target": "PropAreaZ3.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaZ4.ccbi", 
+            "target": "PropAreaZ4.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaZ5.ccbi", 
+            "target": "PropAreaZ5.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaZ6.ccbi", 
+            "target": "PropAreaZ6.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaZ7.ccbi", 
+            "target": "PropAreaZ7.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaZ8.ccbi", 
+            "target": "PropAreaZ8.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaZ9.ccbi", 
+            "target": "PropAreaZ9.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/ccbResources/PropAreaZ10.ccbi", 
+            "target": "PropAreaZ10.ccbi"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/launch/launchBack-hd.png", 
+            "target": "launchBack-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/bg/bgmid5.pvr", 
+            "target": "bgmid5.pvr"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/launch/launchDoorLeft-hd.png", 
+            "target": "launchDoorLeft-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/launch/launchDoorRight-hd.png", 
+            "target": "launchDoorRight-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/launch/launchFloor-hd.png", 
+            "target": "launchFloor-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/pause/pause_resume-hd.png", 
+            "target": "pause_resume-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/launch/launchFrontBottom-hd.png", 
+            "target": "launchFrontBottom-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/launch/launchFrontTop-hd.png", 
+            "target": "launchFrontTop-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/launch/launchShadow-hd.png", 
+            "target": "launchShadow-hd.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/audio/sfx/launchDoors.caf", 
+            "target": "launchDoors.caf"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/audio/sfx/launchFloor.caf", 
+            "target": "launchFloor.caf"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/launch/launchFrontBottom.png", 
+            "target": "launchFrontBottom.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/audio/sfx/launchWhoosh.caf", 
+            "target": "launchWhoosh.caf"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/hudSprites-hd.plist", 
+            "target": "hudSprites-hd.plist"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/bg/bg4.pvr", 
+            "target": "bg4.pvr"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/hudSprites.plist", 
+            "target": "hudSprites.plist"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/images/mainmenu/settings_clear.png", 
+            "target": "settings_clear.png"
+        }, 
+        {
+            "asset": "Projectfiles/Resources/audio/music/music3.caf", 
+            "target": "music3.caf"
+        }
+    ], 
+    "config": {
+        "APPLICATION_FULL_NAME": "Jumpalot", 
+        "APPLICATION_IDENTIFIER": "com.mobilefono.jumpalotjunkbot", 
+        "APPLICATION_NAME": "Jumpalot", 
+        "LONG_VERSION": "502", 
+        "SHORT_VERSION": "1.1", 
+        "TEMPLATE_VALUES": {
+            "EXECUTABLE_NAME": "Jumpalot", 
+            "PRODUCT_NAME": "Jumpalot"
+        }
+    }, 
+    "defines": {
+        "NDEBUG": 1, 
+        "NO_LOG_MACROS": 1, 
+        "NS_BLOCK_ASSERTIONS": 1, 
+        "RELEASE": 1, 
+        "__IPHONE_OS_VERSION_MIN_REQUIRED": 50100
+    }, 
+    "deps": [
+        "UIKit", 
+        "Foundation", 
+        "AudioToolbox", 
+        "OpenAL", 
+        "QuartzCore", 
+        "SystemConfiguration", 
+        "AVFoundation", 
+        "CoreGraphics", 
+        "CoreLocation", 
+        "MediaPlayer", 
+        "OpenGLES", 
+        "Twitter", 
+        "GameKit"
+    ], 
+    "flags": [
+        "-DNS_BLOCK_ASSERTIONS=1", 
+        "-ffast-math", 
+        "-fobjc-arc", 
+        "-fasm-blocks", 
+        {
+            "flag": "-std=gnu99", 
+            "not_type": "c++"
+        }, 
+        {
+            "flag": "-fgnu-keywords", 
+            "not_type": "c++"
+        }, 
+        "-fno-asm", 
+        "-fno-exceptions", 
+        "-fno-rtti", 
+        "-fpascal-strings", 
+        "-Wno-deprecated-declarations", 
+        "-Wmissing-field-initializers", 
+        "-Wreturn-type", 
+        "-Wswitch", 
+        "-Wparentheses", 
+        "-Wsign-compare", 
+        "-Wformat", 
+        "-Wunused-value", 
+        "-Wunused-variable", 
+        {
+            "flag": "-Winvalid-offsetof", 
+            "type": "c++"
+        }, 
+        {
+            "flag": "-Wprotocol", 
+            "type": "objc"
+        }, 
+        {
+            "flag": "-Wundeclared-selector", 
+            "type": "objc"
+        }
+    ], 
+    "header_paths": [
+        {
+            "header_path": "Jumpalot-generated-files.hmap", 
+            "hmap": {}, 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Jumpalot-own-target-headers.hmap", 
+            "hmap": {}, 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Jumpalot-all-target-headers.hmap", 
+            "hmap": {}, 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Jumpalot-project-headers.hmap", 
+            "hmap": {
+                "ActionLayer.h": {
+                    "key": "ActionLayer.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "ActionLayer.h"
+                }, 
+                "AppDelegate.h": {
+                    "key": "AppDelegate.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "AppDelegate.h"
+                }, 
+                "Asteroid.h": {
+                    "key": "Asteroid.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "Asteroid.h"
+                }, 
+                "Background.h": {
+                    "key": "Background.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "Background.h"
+                }, 
+                "Block.h": {
+                    "key": "Block.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "Block.h"
+                }, 
+                "BlockSprite.h": {
+                    "key": "BlockSprite.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "BlockSprite.h"
+                }, 
+                "BlockSpriteOutline.h": {
+                    "key": "BlockSpriteOutline.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "BlockSpriteOutline.h"
+                }, 
+                "Bomb.h": {
+                    "key": "Bomb.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "Bomb.h"
+                }, 
+                "BoostMeter.h": {
+                    "key": "BoostMeter.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "BoostMeter.h"
+                }, 
+                "CCBAnimationManager.h": {
+                    "key": "CCBAnimationManager.h", 
+                    "prefix": "Projectfiles/CCBReader/", 
+                    "suffix": "CCBAnimationManager.h"
+                }, 
+                "CCBKeyframe.h": {
+                    "key": "CCBKeyframe.h", 
+                    "prefix": "Projectfiles/CCBReader/", 
+                    "suffix": "CCBKeyframe.h"
+                }, 
+                "CCBReader.h": {
+                    "key": "CCBReader.h", 
+                    "prefix": "Projectfiles/CCBReader/", 
+                    "suffix": "CCBReader.h"
+                }, 
+                "CCBSequence.h": {
+                    "key": "CCBSequence.h", 
+                    "prefix": "Projectfiles/CCBReader/", 
+                    "suffix": "CCBSequence.h"
+                }, 
+                "CCBSequenceProperty.h": {
+                    "key": "CCBSequenceProperty.h", 
+                    "prefix": "Projectfiles/CCBReader/", 
+                    "suffix": "CCBSequenceProperty.h"
+                }, 
+                "CCFilledRect.h": {
+                    "key": "CCFilledRect.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "CCFilledRect.h"
+                }, 
+                "CCLabelStroker.h": {
+                    "key": "CCLabelStroker.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "CCLabelStroker.h"
+                }, 
+                "CCNode+CCBRelativePositioning.h": {
+                    "key": "CCNode+CCBRelativePositioning.h", 
+                    "prefix": "Projectfiles/CCBReader/", 
+                    "suffix": "CCNode+CCBRelativePositioning.h"
+                }, 
+                "CCShake.h": {
+                    "key": "CCShake.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "CCShake.h"
+                }, 
+                "Clouds.h": {
+                    "key": "Clouds.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "Clouds.h"
+                }, 
+                "CollectionLayer.h": {
+                    "key": "CollectionLayer.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "CollectionLayer.h"
+                }, 
+                "CollectionPage.h": {
+                    "key": "CollectionPage.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "CollectionPage.h"
+                }, 
+                "EnergyMeter.h": {
+                    "key": "EnergyMeter.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "EnergyMeter.h"
+                }, 
+                "GameOverLayer.h": {
+                    "key": "GameOverLayer.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "GameOverLayer.h"
+                }, 
+                "GameScene.h": {
+                    "key": "GameScene.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "GameScene.h"
+                }, 
+                "GravityAura.h": {
+                    "key": "GravityAura.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "GravityAura.h"
+                }, 
+                "HUDLayer.h": {
+                    "key": "HUDLayer.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "HUDLayer.h"
+                }, 
+                "HelpLayer.h": {
+                    "key": "HelpLayer.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "HelpLayer.h"
+                }, 
+                "Junk.h": {
+                    "key": "Junk.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "Junk.h"
+                }, 
+                "JunkCategory.h": {
+                    "key": "JunkCategory.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "JunkCategory.h"
+                }, 
+                "JunkLoader.h": {
+                    "key": "JunkLoader.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "JunkLoader.h"
+                }, 
+                "JunkMeter.h": {
+                    "key": "JunkMeter.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "JunkMeter.h"
+                }, 
+                "JunkType.h": {
+                    "key": "JunkType.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "JunkType.h"
+                }, 
+                "LaunchShip.h": {
+                    "key": "LaunchShip.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "LaunchShip.h"
+                }, 
+                "LevelUpEffect.h": {
+                    "key": "LevelUpEffect.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "LevelUpEffect.h"
+                }, 
+                "LoadingScene.h": {
+                    "key": "LoadingScene.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "LoadingScene.h"
+                }, 
+                "MainLoadingScene.h": {
+                    "key": "MainLoadingScene.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "MainLoadingScene.h"
+                }, 
+                "MainMenuLayer.h": {
+                    "key": "MainMenuLayer.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "MainMenuLayer.h"
+                }, 
+                "MainMenuScene.h": {
+                    "key": "MainMenuScene.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "MainMenuScene.h"
+                }, 
+                "MusicController.h": {
+                    "key": "MusicController.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "MusicController.h"
+                }, 
+                "PauseLayer.h": {
+                    "key": "PauseLayer.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "PauseLayer.h"
+                }, 
+                "Player.h": {
+                    "key": "Player.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "Player.h"
+                }, 
+                "PlayerDriveConfig.h": {
+                    "key": "PlayerDriveConfig.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "PlayerDriveConfig.h"
+                }, 
+                "PlayerParticleTrail.h": {
+                    "key": "PlayerParticleTrail.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "PlayerParticleTrail.h"
+                }, 
+                "PlayerSprite.h": {
+                    "key": "PlayerSprite.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "PlayerSprite.h"
+                }, 
+                "PlayerStreak.h": {
+                    "key": "PlayerStreak.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "PlayerStreak.h"
+                }, 
+                "Prefix-Mac.pch": {
+                    "key": "Prefix-Mac.pch", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "Prefix-Mac.pch"
+                }, 
+                "Prefix-iOS.pch": {
+                    "key": "Prefix-iOS.pch", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "Prefix-iOS.pch"
+                }, 
+                "PropArea.h": {
+                    "key": "PropArea.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "PropArea.h"
+                }, 
+                "PropAreaGlobal.h": {
+                    "key": "PropAreaGlobal.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "PropAreaGlobal.h"
+                }, 
+                "PropAreaRandomizer.h": {
+                    "key": "PropAreaRandomizer.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "PropAreaRandomizer.h"
+                }, 
+                "PropAreaTemplate.h": {
+                    "key": "PropAreaTemplate.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "PropAreaTemplate.h"
+                }, 
+                "PropAreaTemplatesManager.h": {
+                    "key": "PropAreaTemplatesManager.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "PropAreaTemplatesManager.h"
+                }, 
+                "PropAreasManager.h": {
+                    "key": "PropAreasManager.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "PropAreasManager.h"
+                }, 
+                "Score.h": {
+                    "key": "Score.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "Score.h"
+                }, 
+                "ScoreMeter.h": {
+                    "key": "ScoreMeter.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "ScoreMeter.h"
+                }, 
+                "SettingsLayer.h": {
+                    "key": "SettingsLayer.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "SettingsLayer.h"
+                }, 
+                "UserData.h": {
+                    "key": "UserData.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "UserData.h"
+                }, 
+                "Zoomer.h": {
+                    "key": "Zoomer.h", 
+                    "prefix": "Projectfiles/", 
+                    "suffix": "Zoomer.h"
+                }
+            }, 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "..", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": ".", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../Kobold2D Project Starter.app", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../Kobold2D Project Upgrader.app", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../Kobold2D.xcworkspace", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/buildsettings", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/kobold2d", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/prefix", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/tools", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Art", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Art for release", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "BuildSettings", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "cards", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Jumpalot.approj", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Projectfiles", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Projectfiles-iOS", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../Kobold2D Project Starter.app/Contents", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../Kobold2D Project Upgrader.app/Contents", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../Kobold2D.xcworkspace/xcuserdata", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/Box2D", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/Chipmunk", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/Chipmunk-SpaceManager", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/cocos2d-iphone", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/cocos2d-iphone-extensions", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/cocos2d-iphone-extensions-mac", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/cocos2d-iphone-mac", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/cocos3d", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/CocosDenshion", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/CocosDenshion-mac", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/Kobold2D", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/Kobold2D-mac", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/ObjectAL", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/SneakyInput", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/kobold2d/cocos2d-ext", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/bitarray_c", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Box2D", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Chipmunk", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Chipmunk-SpaceManager", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos2d-iphone", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos2d-iphone-extensions", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos3d", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/iSimulateSDK", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/lua", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/ObjectAL-for-iPhone", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/SneakyInput", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/VTPG", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/File Templates", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/workspace", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/tools/Kobold2D Project Starter", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/tools/Kobold2D Project Upgrader", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/tools/post-install", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Art/asteroids", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Art/finaljunk", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Art/roughbombzoomer", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Art/sprites 2", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Art/tea stains", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Art for release/screenshots", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Jumpalot.approj/assets", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Jumpalot.approj/targets", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Projectfiles/CCBReader", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Projectfiles/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Projectfiles-iOS/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Projectfiles-iOS/ubuntu-font-family-0.80", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../Kobold2D Project Starter.app/Contents/MacOS", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../Kobold2D Project Starter.app/Contents/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../Kobold2D Project Upgrader.app/Contents/MacOS", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../Kobold2D Project Upgrader.app/Contents/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../Kobold2D.xcworkspace/xcuserdata/fono.xcuserdatad", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/Box2D/html", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/Chipmunk/html", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/Chipmunk-SpaceManager/html", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/cocos2d-iphone/html", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/cocos2d-iphone-extensions/html", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/cocos2d-iphone-extensions-mac/html", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/cocos2d-iphone-mac/html", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/cocos3d/html", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/CocosDenshion/html", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/CocosDenshion-mac/html", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/Kobold2D/html", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/Kobold2D-mac/html", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/ObjectAL/html", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/SneakyInput/html", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Box2D/Box2D", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Box2D/Build", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Box2D/Documentation", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Box2D/freeglut", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Box2D/glui", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Box2D/HelloWorld", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Box2D/Testbed", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Chipmunk/include", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Chipmunk/src", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Chipmunk-SpaceManager/src", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos2d-iphone/cocos2d", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos2d-iphone/CocosDenshion", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos2d-iphone/external", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos2d-iphone/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos2d-iphone-extensions/Extensions", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos3d/cocos3d", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/lua/doc", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/lua/etc", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/lua/src", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/lua/test", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/ObjectAL-for-iPhone/diagrams", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectALDemo", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectALTests", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/ObjectAL-for-iPhone/Sample Code", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/SneakyInput/Classes", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/SneakyInput/libs", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/SneakyInput/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/VTPG/Mac OS X", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/File Templates/Kobold2D", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Cocos2D-With-UIKit-Views-Template_", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Doodle-Drop-Template_", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Empty-Project-Template_", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Hello-Kobold2D-Template_", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Isometric-Tilemap-Template_", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Orthogonal-Tilemap-Template_", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Parallax-Side-Scroller-Template_", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Particle-Effects-Template_", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Physics-Box2D-Template_", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Physics-Chipmunk-SpaceManager-Template_", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Physics-Chipmunk-Template_", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Pinball-Game-Template_", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Sprite-Performance-Template_", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_User-Input-Template_", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/workspace/Kobold2D.xcworkspace", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/tools/Kobold2D Project Starter/Kobold2D Project Starter", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/tools/Kobold2D Project Upgrader/Kobold2D Project Upgrader", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/tools/post-install/post-install", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Art/finaljunk/1", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Art/finaljunk/2", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Art/finaljunk/3", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Art/finaljunk/4", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Art/finaljunk/finaljunk_3", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Art for release/screenshots/picks", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Art for release/screenshots/psd 4.5", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Art for release/screenshots/psd 5", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Jumpalot.approj/targets/Jumpalot", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Projectfiles/Resources/audio", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Projectfiles/Resources/ccbResources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Projectfiles/Resources/fonts", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Projectfiles/Resources/images", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Projectfiles/Resources/particles", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../Kobold2D.xcworkspace/xcuserdata/fono.xcuserdatad/xcdebugger", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/Box2D/html/search", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/Chipmunk/html/search", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/Chipmunk-SpaceManager/html/search", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/cocos2d-iphone/html/search", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/cocos2d-iphone-extensions/html/search", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/cocos2d-iphone-extensions-mac/html/search", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/cocos2d-iphone-mac/html/search", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/cocos3d/html/search", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/CocosDenshion/html/search", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/CocosDenshion-mac/html/search", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/Kobold2D/html/search", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/Kobold2D-mac/html/search", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/ObjectAL/html/search", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/docs/SneakyInput/html/search", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Box2D/Box2D/Collision", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Box2D/Box2D/Common", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Box2D/Box2D/Dynamics", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Box2D/Box2D/Rope", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Box2D/Build/vs2010", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Box2D/Build/xcode4", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Box2D/Testbed/Framework", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Box2D/Testbed/Tests", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Chipmunk/include/chipmunk", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Chipmunk/src/constraints", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Chipmunk-SpaceManager/src/ccExtras", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpExtras", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Chipmunk-SpaceManager/src/PhysicsEditorExtras", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos2d-iphone/cocos2d/Support", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos2d-iphone/external/kazmath", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos2d-iphone/external/libpng", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos2d-iphone-extensions/Extensions/CCBigImage", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos2d-iphone-extensions/Extensions/CCLayerPanZoom", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos2d-iphone-extensions/Extensions/CCMenuAdvanced", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos2d-iphone-extensions/Extensions/CCMenuItemSpriteIndependent", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos2d-iphone-extensions/Extensions/CCScrollLayer", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos2d-iphone-extensions/Extensions/CCSendMessages", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos2d-iphone-extensions/Extensions/CCSlider", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos2d-iphone-extensions/Extensions/CCVideoPlayer", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos2d-iphone-extensions/Extensions/FilesDownloader", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos2d-iphone-extensions/Extensions/HKTMXTiledMap", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos2d-iphone-extensions/Extensions/TMXGenerator", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectALDemo/Demos", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectALDemo/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectALDemo/Support", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/SneakyInput/libs/cocos2d", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/SneakyInput/libs/CocosDenshion", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/SneakyInput/libs/cocoslive", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/SneakyInput/libs/FontLabel", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/SneakyInput/libs/TouchJSON", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/File Templates/Kobold2D/Kobold2D Class Templates.xctemplate", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Cocos2D-With-UIKit-Views-Template_/BuildSettings", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Cocos2D-With-UIKit-Views-Template_/Projectfiles", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Cocos2D-With-UIKit-Views-Template_/Projectfiles-iOS", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Cocos2D-With-UIKit-Views-Template_/Projectfiles-Mac", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Doodle-Drop-Template_/BuildSettings", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Doodle-Drop-Template_/Projectfiles", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Doodle-Drop-Template_/Projectfiles-iOS", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Doodle-Drop-Template_/Projectfiles-Mac", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Empty-Project-Template_/BuildSettings", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Empty-Project-Template_/Projectfiles", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Empty-Project-Template_/Projectfiles-iOS", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Empty-Project-Template_/Projectfiles-Mac", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Hello-Kobold2D-Template_/BuildSettings", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Hello-Kobold2D-Template_/Projectfiles", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Hello-Kobold2D-Template_/Projectfiles-iOS", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Hello-Kobold2D-Template_/Projectfiles-Mac", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Isometric-Tilemap-Template_/BuildSettings", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Isometric-Tilemap-Template_/Projectfiles", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Isometric-Tilemap-Template_/Projectfiles-iOS", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Isometric-Tilemap-Template_/Projectfiles-Mac", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Orthogonal-Tilemap-Template_/BuildSettings", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Orthogonal-Tilemap-Template_/Projectfiles", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Orthogonal-Tilemap-Template_/Projectfiles-iOS", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Orthogonal-Tilemap-Template_/Projectfiles-Mac", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Parallax-Side-Scroller-Template_/Assets", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Parallax-Side-Scroller-Template_/BuildSettings", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Parallax-Side-Scroller-Template_/Projectfiles", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Parallax-Side-Scroller-Template_/Projectfiles-iOS", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Particle-Effects-Template_/BuildSettings", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Particle-Effects-Template_/Projectfiles", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Particle-Effects-Template_/Projectfiles-iOS", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Particle-Effects-Template_/Projectfiles-Mac", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Physics-Box2D-Template_/BuildSettings", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Physics-Box2D-Template_/Projectfiles", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Physics-Box2D-Template_/Projectfiles-iOS", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Physics-Box2D-Template_/Projectfiles-Mac", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Physics-Chipmunk-SpaceManager-Template_/BuildSettings", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Physics-Chipmunk-SpaceManager-Template_/Projectfiles", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Physics-Chipmunk-SpaceManager-Template_/Projectfiles-iOS", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Physics-Chipmunk-SpaceManager-Template_/Projectfiles-Mac", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Physics-Chipmunk-Template_/BuildSettings", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Physics-Chipmunk-Template_/Projectfiles", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Physics-Chipmunk-Template_/Projectfiles-iOS", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Physics-Chipmunk-Template_/Projectfiles-Mac", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Pinball-Game-Template_/Assets", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Pinball-Game-Template_/BuildSettings", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Pinball-Game-Template_/Projectfiles", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Pinball-Game-Template_/Projectfiles-iOS", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Pinball-Game-Template_/Projectfiles-Mac", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Sprite-Performance-Template_/BuildSettings", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Sprite-Performance-Template_/Projectfiles", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Sprite-Performance-Template_/Projectfiles-iOS", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Sprite-Performance-Template_/Projectfiles-Mac", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_User-Input-Template_/BuildSettings", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_User-Input-Template_/Projectfiles", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_User-Input-Template_/Projectfiles-iOS", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_User-Input-Template_/Projectfiles-Mac", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Art/finaljunk/1/_png", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Art/finaljunk/2/_png", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Art/finaljunk/3/_png", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Art/finaljunk/4/_png", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Projectfiles/Resources/audio/music", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Projectfiles/Resources/audio/sfx", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Projectfiles/Resources/images/bg", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Projectfiles/Resources/images/effects", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Projectfiles/Resources/images/gameover", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Projectfiles/Resources/images/help", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Projectfiles/Resources/images/hud", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Projectfiles/Resources/images/junk", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Projectfiles/Resources/images/launch", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Projectfiles/Resources/images/levelUp", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Projectfiles/Resources/images/mainmenu", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Projectfiles/Resources/images/pause", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Projectfiles/Resources/images/player", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Projectfiles/Resources/images/props", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Box2D/Box2D/Collision/Shapes", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Box2D/Box2D/Dynamics/Contacts", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Box2D/Box2D/Dynamics/Joints", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Chipmunk/include/chipmunk/constraints", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Chipmunk-SpaceManager/src/cpSpaceSerializer/tinyxml", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/iOS", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos2d-iphone/cocos2d/Platforms/Mac", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos2d-iphone/external/kazmath/src", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos2d-iphone-extensions/Extensions/CCVideoPlayer/iOS", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos2d-iphone-extensions/Extensions/CCVideoPlayer/Mac", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Actions", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/AudioTrack", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/OpenAL", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Session", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/ObjectAL-for-iPhone/ObjectAL/ObjectAL/Support", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/SneakyInput/libs/cocos2d/Support", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/SneakyInput/libs/TouchJSON/Extensions", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/SneakyInput/libs/TouchJSON/JSON", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/File Templates/Kobold2D/Kobold2D Class Templates.xctemplate/CCLayer", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/File Templates/Kobold2D/Kobold2D Class Templates.xctemplate/CCNode", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/File Templates/Kobold2D/Kobold2D Class Templates.xctemplate/CCScene", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Cocos2D-With-UIKit-Views-Template_/Projectfiles/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Cocos2D-With-UIKit-Views-Template_/Projectfiles-iOS/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Cocos2D-With-UIKit-Views-Template_/Projectfiles-Mac/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Doodle-Drop-Template_/Projectfiles/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Doodle-Drop-Template_/Projectfiles-iOS/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Doodle-Drop-Template_/Projectfiles-Mac/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Empty-Project-Template_/Projectfiles/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Empty-Project-Template_/Projectfiles-iOS/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Empty-Project-Template_/Projectfiles-Mac/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Hello-Kobold2D-Template_/Projectfiles/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Hello-Kobold2D-Template_/Projectfiles-iOS/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Hello-Kobold2D-Template_/Projectfiles-iOS/ubuntu-font-family-0.80", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Hello-Kobold2D-Template_/Projectfiles-Mac/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Isometric-Tilemap-Template_/Projectfiles/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Isometric-Tilemap-Template_/Projectfiles-iOS/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Isometric-Tilemap-Template_/Projectfiles-Mac/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Orthogonal-Tilemap-Template_/Projectfiles/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Orthogonal-Tilemap-Template_/Projectfiles-iOS/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Orthogonal-Tilemap-Template_/Projectfiles-Mac/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Parallax-Side-Scroller-Template_/Assets/GameArt", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Parallax-Side-Scroller-Template_/Projectfiles/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Parallax-Side-Scroller-Template_/Projectfiles-iOS/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Particle-Effects-Template_/Projectfiles/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Particle-Effects-Template_/Projectfiles-iOS/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Particle-Effects-Template_/Projectfiles-Mac/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Physics-Box2D-Template_/Projectfiles/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Physics-Box2D-Template_/Projectfiles-iOS/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Physics-Box2D-Template_/Projectfiles-Mac/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Physics-Chipmunk-SpaceManager-Template_/Projectfiles/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Physics-Chipmunk-SpaceManager-Template_/Projectfiles-iOS/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Physics-Chipmunk-SpaceManager-Template_/Projectfiles-Mac/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Physics-Chipmunk-Template_/Projectfiles/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Physics-Chipmunk-Template_/Projectfiles-iOS/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Physics-Chipmunk-Template_/Projectfiles-Mac/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Pinball-Game-Template_/Assets/pinball", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Pinball-Game-Template_/Projectfiles/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Pinball-Game-Template_/Projectfiles-iOS/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Pinball-Game-Template_/Projectfiles-Mac/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Sprite-Performance-Template_/Projectfiles/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Sprite-Performance-Template_/Projectfiles-iOS/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Sprite-Performance-Template_/Projectfiles-Mac/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_User-Input-Template_/Projectfiles/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_User-Input-Template_/Projectfiles-iOS/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_User-Input-Template_/Projectfiles-Mac/Resources", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Projectfiles/Resources/audio/music/musicMenu_data", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Projectfiles/Resources/audio/sfx/levelup_data", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include/kazmath", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos2d-iphone/external/kazmath/src/GL", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Orthogonal-Tilemap-Template_/Projectfiles/Resources/David Gervais Tilesets", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Physics-Box2D-Template_/Projectfiles/Resources/David Gervais Tilesets", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Physics-Chipmunk-SpaceManager-Template_/Projectfiles/Resources/David Gervais Tilesets", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/templates/project/_Physics-Chipmunk-Template_/Projectfiles/Resources/David Gervais Tilesets", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Projectfiles/Resources/audio/music/musicMenu_data/e00", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Projectfiles/Resources/audio/sfx/levelup_data/e00", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos2d-iphone/external/kazmath/include/kazmath/GL", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Projectfiles/Resources/audio/music/musicMenu_data/e00/d00", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Projectfiles/Resources/audio/sfx/levelup_data/e00/d00", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/koboldscript/nodes", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/koboldscript", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/koboldscript/actions", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/koboldscript/conditions", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/koboldscript/statemachine", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/koboldscript/variables", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/koboldscript/wrapper", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/koboldscript/scriptnodes", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/koboldscript/nodeabilities", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/koboldscript/nodebehaviors", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos3d/cocos3d/cc3Extras", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos3d/cocos3d/cc3PVR", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos3d/cocos3d/CCNodeController", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos3d/cocos3d/cocos3d", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/OpenGLES11", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/cocos3d/cocos3d/cocos3d/Utility", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "\"/Projects/Kobold2D/Kobold2D-2.1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3PVR/PVRT 2.08", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "\"/Projects/Kobold2D/Kobold2D-2.1.0/__Kobold2D__/libs/cocos3d/cocos3d/cc3PVR/PVRT 2.08/OGLES", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Lua/src", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/kobold2d/sneaky-ext", 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Box2D", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Box2D/Box2D", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Box2D/Box2D/Rope", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Box2D/Box2D/Collision", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Box2D/Box2D/Collision/Shapes", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Box2D/Box2D/Common", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Box2D/Box2D/Dynamics", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Box2D/Box2D/Dynamics/Contacts", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "../__Kobold2D__/libs/Box2D/Box2D/Dynamics/Joints", 
+            "type": "I"
+        }
+    ], 
+    "infoplists": [
+        "./Projectfiles-iOS/Resources/Info.plist"
+    ], 
+    "libs": [
+        "z", 
+        "stdc++", 
+        "cocos2d-extensions-ios", 
+        "cocos2d-ios", 
+        "cocosdenshion-ios", 
+        "kobold2d-ios", 
+        "objectal-ios", 
+        "wax-ios"
+    ], 
+    "modules": [], 
+    "pchs": [
+        "./Projectfiles/Prefix-iOS.pch"
+    ], 
+    "sources": [
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/ActionLayer.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/AppDelegate.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/Asteroid.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/Background.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/Block.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/BlockSprite.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/BlockSpriteOutline.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/Bomb.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/BoostMeter.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/CCBReader/CCBAnimationManager.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/CCBReader/CCBKeyframe.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/CCBReader/CCBReader.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/CCBReader/CCBSequenceProperty.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/CCBReader/CCBsequence.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [
+                "-fno-objc-arc"
+            ], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/CCBReader/CCNode+CCBRelativePositioning.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/CCFilledRect.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/CCLabelStroker.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/CCShake.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/Clouds.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/CollectionLayer.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/CollectionPage.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/EnergyMeter.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/GameOverLayer.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/GameScene.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/GravityAura.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/HUDLayer.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/HelpLayer.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/Junk.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/JunkCategory.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/JunkLoader.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/JunkMeter.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/JunkType.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/LaunchShip.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/LevelUpEffect.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/LoadingScene.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/MainLoadingScene.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/MainMenuLayer.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/MainMenuScene.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/MusicController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/PauseLayer.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/Player.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/PlayerDriveConfig.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/PlayerParticleTrail.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/PlayerSprite.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/PlayerStreak.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/PropArea.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/PropAreaGlobal.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/PropAreaRandomizer.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/PropAreaTemplate.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/PropAreaTemplatesManager.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/PropAreasManager.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/Score.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/ScoreMeter.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/SettingsLayer.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/UserData.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/Zoomer.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Projectfiles/main.m"
+        }
+    ], 
+    "type": "app", 
+    "version": "1", 
+    "xcode_project": "Jumpalot.xcodeproj"
+}

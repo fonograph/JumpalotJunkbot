@@ -1,0 +1,20 @@
+Current Working Dir: /Projects/Kobold2D/Kobold2D-2.1.0/Kobold2D Project Upgrader.app
+Going up one directory (base dir): /Projects/Kobold2D/Kobold2D-2.1.0
+Creating CURRENT Kobold2D version (destination path is nil on purpose)
+Initialized Kobold2D version at '/Projects/Kobold2D/Kobold2D-2.1.0' with destination '(null)', name 'Kobold2D-2.1.0', versionString '2.1.0'
+Trying to locate upgradeable projects in /Projects/Kobold2D/Kobold2D-2.1.0
+Found a workspace named Kobold2D.xcworkspace, begin parsing contents ...
+Possible Kobold2D Base Dir: /Projects/Kobold2D
+Looking for Kobold2D versions in: /Projects/Kobold2D
+Considering: .DS_Store
+Considering: Kobold2D-2.0.4
+Kobold2D-2.0.4 exists and is a directory, checking if it contains __Kobold2D__ folder...
+CONFIRMED: Kobold2D-2.0.4 is a Kobold2D folder
+Initialized Kobold2D version at '/Projects/Kobold2D/Kobold2D-2.0.4' with destination '/Projects/Kobold2D/Kobold2D-2.1.0', name 'Kobold2D-2.0.4', versionString '2.0.4'
+Trying to locate upgradeable projects in /Projects/Kobold2D/Kobold2D-2.0.4
+Found a workspace named Kobold2D.xcworkspace, begin parsing contents ...
+Found possibly upgradeable Xcode workspace: <XcodeProject: 0x101312090> workspaceName: Kobold2D.xcworkspace, workspacePath: /Projects/Kobold2D/Kobold2D-2.0.4, projectName: Jumpalot.xcodeproj, projectPath: /Projects/Kobold2D/Kobold2D-2.0.4/Jumpalot
+Project destination path after upgrade will be: /Projects/Kobold2D/Kobold2D-2.1.0/Jumpalot
+Considering: Kobold2D-2.1.0
+Kobold2D-2.1.0 exists and is a directory, checking if it contains __Kobold2D__ folder...
+IGNORED: Kobold2D-2.1.0 is a Kobold2D folder BUT it is the current version
